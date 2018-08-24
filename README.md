@@ -6,4 +6,4 @@ Expenditure.
 Technologies: JavaScript, HTML5, CSS3
 
 How to run the application:
-Open the index.html file
+Download the Project -> Open the index.html file
